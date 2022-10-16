@@ -1,0 +1,262 @@
+id,name,description,category,launchDate,freeTier
+amazon-api-gateway,Amazon API Gateway,"Build, deploy, and manage APIs",Front-End Web & Mobile,2015-07-09,Free Trial
+amazon-appflow,Amazon AppFlow,No-code integration for SaaS apps & AWS services,Application Integration,2020-04-22,
+amazon-appstream-2-0,Amazon AppStream 2.0,Stream desktop applications securely to a browser,End User Computing,2016-12-01,Free Trial
+amazon-athena,Amazon Athena,Query data in S3 using SQL,Analytics,2016-11-30,
+amazon-augmented-ai,Amazon Augmented AI,Easily implement human review of ML predictions,Machine Learning,2020-04-24,Free Trial
+amazon-aurora,Amazon Aurora,High performance managed relational database,Databases,2014-11-12,
+amazon-braket,Amazon Braket,Accelerate quantum computing research,Quantum Technologies,2020-08-13,Free Trial
+amazon-chime,Amazon Chime,"Frustration-free meetings, video calls, and cha",Business Applications,2017-02-13,
+amazon-chime-sdk,Amazon Chime SDK,"Real-time messaging, audio, video, and screen sharing&nbsp",Business Applications,2019-11-21,
+amazon-cloudfront,Amazon CloudFront,Global content delivery network,Networking & Content Delivery,2008-11-18,12 Months Free
+amazon-cloudsearch,Amazon CloudSearch,Managed search service,Analytics,2012-04-11,
+amazon-cloudwatch,Amazon CloudWatch,Monitor resources and applications,Management & Governance,2009-05-18,
+amazon-codeguru,Amazon CodeGuru,Find your most expensive lines of code,Machine Learning,2019-12-03,
+amazon-cognito,Amazon Cognito,Identity management for your apps,"Security, Identity, & Compliance",2014-07-10,
+amazon-comprehend,Amazon Comprehend,Discover insights and relationships in text,Machine Learning,2017-11-29,12 Months Free
+amazon-connect,Amazon Connect,Omnichannel cloud contact cente,Business Applications,2017-03-28,
+amazon-corretto,Amazon Corretto,Production-ready distribution of OpenJDK,Developer Tools,2019-01-31,
+amazon-detective,Amazon Detective,Investigate potential security issues,"Security, Identity, & Compliance",2019-12-03,Free Trial
+amazon-devops-guru,Amazon DevOps Guru,ML-powered cloud operations service to improve application availability,Machine Learning,2021-05-04,Free Trial
+amazon-devops-guru-for-rds,Amazon DevOps Guru for RDS,"Detect, diagnose, and remediate performance issues in Amazon RDS",Machine Learning,2021-12-01,
+amazon-documentdb-with-mongodb-compatibility,Amazon DocumentDB,Fully managed document databas,Databases,2019-01-08,
+amazon-dynamodb,Amazon DynamoDB,Managed NoSQL database,Databases,2012-01-18,Free Trial
+amazon-ebs-snapshots-archive,Amazon EBS Snapshots Archive,Archive EBS Snapshots and save up to 75% in snapshot storage costs,Storage,2021-11-29,
+amazon-ec2,Amazon EC2,Virtual servers in the cloud,Compute,2008-10-23,Free Trial
+amazon-ec2-auto-scaling,Amazon EC2 Auto Scaling,Scale compute capacity to meet demand,Compute,2009-05-17,
+amazon-ec2-c7g-instances-graviton3,Amazon EC2 C7g Instances & Graviton3 (Preview),Best price performance for compute-intensive workloads in Amazon EC2,Compute,2021-11-30,
+amazon-ec2-g5g-instances,Amazon EC2 G5g Instances,Best price performance in Amazon EC2 for Android game streaming,Compute,2021-11-29,
+amazon-ec2-i4i-instances,Amazon EC2 I4i Instances (Coming Soon),The highest local storage performance in Amazon EC2,Compute,2021-11-30,
+amazon-ec2-im4gn-is4gen-instances,Amazon EC2 Im4gn/Is4gen Instances,Best price performance and lowest cost SSD-based storage in Amazon EC2,Compute,2021-11-30,
+amazon-ec2-m1-mac-instances,Amazon EC2 M1 Mac Instances (Preview),Better application build performance and faster tests for macOS,Compute,2021-12-02,
+amazon-ec2-m6a-instances,Amazon EC2 M6a Instances,General purpose instances powered by 3rd generation AMD EPYC processors,Compute,2021-11-29,
+amazon-ec2-spot-instances,Amazon EC2 Spot Instances,Run workloads for up to 90% off,Compute,2009-12-14,
+amazon-ec2-trn1-instances,Amazon EC2 Trn1 Instances (Preview),The best price performance for training deep learning models in the cloud,Compute,2021-11-30,
+amazon-ec2-x2idn-x2iedn-instances,Amazon EC2 X2idn/X2iedn Instances (Coming Soon),Up to 50% better compute price performance than previous generation instances,Compute,2021-11-29,
+amazon-ec2-x2iezn-instances,Amazon EC2 X2iezn Instances (Coming Soon),The fastest Intel Xeon Scalable processor in the cloud,Compute,2021-11-29,
+amazon-elastic-block-store-ebs,Amazon Elastic Block Store (EBS),EC2 block storage volumes,Storage,2008-08-20,12 Months Free
+amazon-elastic-container-registry,Amazon Elastic Container Registry (ECR),"Easily store, manage, and deploy container images",Containers,2015-12-21,Free Trial
+amazon-elastic-container-service-ecs,Amazon Elastic Container Service (ECS),"Highly secure, reliable, and scalable way to run containers",Containers,2014-11-13,
+amazon-elastic-file-system-efs,Amazon Elastic File System (EFS),Fully managed file system for EC2,Storage,2015-04-09,12 Months Free
+amazon-elastic-inference,Amazon Elastic Inference,Deep learning inference acceleration,Machine Learning,2018-11-28,
+amazon-elastic-kubernetes-service-eks,Amazon Elastic Kubernetes Service (EKS),The most trusted way to run Kubernetes,Containers,2018-06-05,
+amazon-elastic-transcoder,Amazon Elastic Transcoder,Easy-to-use scalable media transcoding,Media Services,2013-01-28,
+amazon-elasticache,Amazon ElastiCache,In-memory caching service,Databases,2011-08-22,Free Trial
+amazon-emr,Amazon EMR,Hosted Hadoop framework,Analytics,2009-04-02,
+amazon-emr-serverless,Amazon EMR Serverless (Preview),Run big data applications using open-source frameworks without managing clusters and servers,Analytics,2021-11-30,
+amazon-eventbridge,Amazon EventBridge,Serverless event bus for SaaS apps & AWS services,Application Integration,2019-07-11,
+amazon-finspace,Amazon FinSpace,"Store, catalog, prepare, and analyze financial industry data in minutes",Analytics,2021-05-03,
+amazon-forecast,Amazon Forecast,Increase forecast accuracy using machine learning,Machine Learning,2019-08-22,Free Trial
+amazon-fraud-detector,Amazon Fraud Detector,Detect more online fraud faster,Machine Learning,2020-07-28,Free Trial
+amazon-freertos,Amazon FreeRTOS,Real-time operating system for microcontrollers,Internet of Things,2017-11-29,
+amazon-fsx,Amazon FSx,"Launch, run, and scale feature-rich and highly-performant file systems with just a few clicks",Storage,2018-11-28,
+amazon-fsx-for-lustre,Amazon FSx for Lustre,High-performance file system integrated with S3,Storage,2018-11-28,
+amazon-fsx-for-openzfs,Amazon FSx for OpenZFS,Fully managed storage built on the popular OpenZFS file system,Storage,2021-11-30,
+amazon-fsx-for-windows-file-server,Amazon FSx for Windows File Server,Fully managed Windows native file system,Storage,2018-11-28,
+amazon-gamelift,Amazon GameLift,"Simple, fast, cost-effective dedicated game server hosting",Game Tech,2016-02-09,
+amazon-guardduty,Amazon GuardDuty,Managed threat detection service,"Security, Identity, & Compliance",2017-11-28,Free Trial
+amazon-healthlake,Amazon HealthLake,"Securely store, transform, query, and analyze health data in minutes",Machine Learning,2020-12-08,
+amazon-honeycode,Amazon Honeycode,Build mobile &amp; web apps without programmin,Business Applications,2020-06-24,
+amazon-inspector,Amazon Inspector,Automated and continual vulnerability management for Amazon EC2 and Amazon ECR,"Security, Identity, & Compliance",2021-11-29,Free Trial
+amazon-interactive-video-service,Amazon Interactive Video Service,Build engaging live stream experiences,Media Services,2020-07-15,
+amazon-kendra,Amazon Kendra,Reinvent enterprise search with ML,Machine Learning,2020-05-11,Free Trial
+amazon-keyspaces-for-apache-cassandra,Amazon Keyspaces (for Apache Cassandra),Managed Cassandra-compatible database,Databases,2020-04-23,Free Trial
+amazon-kinesis,Amazon Kinesis,Analyze real-time video and data streams,Analytics,2013-12-16,
+amazon-kinesis-video-streams,Amazon Kinesis Video Streams,Process and analyze video streams,Media Services,2017-11-29,
+amazon-lex,Amazon Lex,Build voice and text chatbots,Machine Learning,2017-04-19,
+amazon-lex-automated-chatbot-designer,Amazon Lex Automated Chatbot Designer (Preview),Design chatbots using existing conversation transcripts,Machine Learning,2021-12-01,
+amazon-lightsail,Amazon Lightsail,Launch and manage virtual private servers,Compute,2016-11-30,Free Trial
+amazon-location,Amazon Location Service,Securely and easily add location data to applications,Front-End Web & Mobile,2021-06-01,Free Trial
+amazon-lookout-for-equipment,Amazon Lookout for Equipment,Detect abnormal equipment behavior by analyzing sensor data,Machine Learning,2021-04-08,Free Trial
+amazon-lookout-for-metrics,Amazon Lookout for Metrics,Automatically detect anomalies in metrics and identify their root cause,Machine Learning,2020-12-01,Free Trial
+amazon-lookout-for-vision,Amazon Lookout for Vision,Spot product defects using computer vision to automate quality inspection,Machine Learning,2021-02-24,Free Trial
+amazon-lumberyard,Amazon Lumberyard,"A free cross-platform 3D game engine, with Full Source, integrated with AWS and Twitch",Game Tech,2016-03-16,
+amazon-macie,Amazon Macie,Discover and protect your sensitive data at scale,"Security, Identity, & Compliance",2017-08-14,
+amazon-managed-blockchain,Amazon Managed Blockchain,Create and manage scalable blockchain networks,Blockchain,2018-11-28,
+amazon-managed-grafana,Amazon Managed Grafana,"Scalable, secure, and highly available data visualization for your operational metrics, logs, and traces",Management & Governance,2021-08-31,
+amazon-managed-promotheus,Amazon Managed Service for Prometheus,"Highly available, secure, and managed monitoring for your containers",Management & Governance,2021-09-29,
+amazon-managed-streaming-for-apache-kafka-amazon-msk-serverless,Amazon Managed Streaming for Apache Kafka (Amazon MSK) Serverless (Preview),Easily stream data with Amazon MSK without managing cluster capacity,Analytics,2021-11-30,
+amazon-managed-streaming-for-apache-kafka,Amazon Managed Streaming for Apache Kafka (MSK),Fully managed Apache Kafka service,Analytics,2019-05-30,
+amazon-managed-workflows-for-apache-airflow,Amazon Managed Workflows for Apache Airflow (MWAA),"Highly available, secure, and managed workflow orchestration for Apache Airflow",Application Integration,2020-11-24,
+amazon-memorydb-for-redis,Amazon MemoryDB for Redis,"Redis-compatible, durable, in-memory database service for ultra-fast performanc",Databases,2021-08-19,
+amazon-monitron,Amazon Monitron,Reduce unplanned equipment downtime with predictive maintenance and machine learning,Machine Learning,2020-12-01,
+amazon-mq,Amazon MQ,Managed message broker service,Application Integration,2017-11-28,
+amazon-neptune,Amazon Neptune,Fully managed graph database servic,Databases,2018-05-30,
+amazon-nimble-studio,Amazon Nimble Studio,Accelerate content creation in the cloud,Media Services,2021-04-08,
+amazon-elasticsearch-service,Amazon OpenSearch Service (successor to Amazon Elasticsearch Service),"Search, visualize, and analyze up to petabytes of text and unstructured data",Analytics,2015-10-01,Free Trial
+amazon-personalize,Amazon Personalize,Build real-time recommendations into your applications,Machine Learning,2019-06-10,Free Trial
+amazon-pinpoint,Amazon Pinpoint,Multichannel marketing communication,Front-End Web & Mobile,2016-12-01,
+amazon-polly,Amazon Polly,Turn text into life-like speech,Machine Learning,2016-11-30,12 Months Free
+amazon-quantum-ledger-database-qldb,Amazon Quantum Ledger Database (QLDB),Fully managed ledger database,Blockchain,2018-11-28,
+amazon-quicksight,Amazon QuickSight,Fast business analytics service,Analytics,2016-11-15,Free Trial
+amazon-rds,Amazon RDS,"Managed relational database service for MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB",Databases,2009-10-27,Free Trial
+amazon-rds-custom-for-sql-server,Amazon RDS Custom for SQL Server,Managed database services for applications that require operating system and database customization,Databases,2021-12-01,
+amazon-redshift,Amazon Redshift,"Fast, simple, cost-effective data warehousing",Databases,2013-02-14,Free Trial
+amazon-redshift-serverless,Amazon Redshift Serverless (Preview),Get insights in seconds without having to manage your data warehouse,Analytics,2021-11-30,
+amazon-rekognition,Amazon Rekognition,Analyze image and video,Machine Learning,2016-11-30,12 Months Free
+amazon-route-53,Amazon Route 53,53 Scalable domain name system (DNS),Networking & Content Delivery,2010-12-06,
+amazon-glacier,Amazon S3 Glacier,Low-cost archive storage in the cloud,Storage,2012-08-20,
+amazon-s3-glacier-instant-retrieval,Amazon S3 Glacier Instant Retrieval,Lowest cost storage with milliseconds retrieval for rarely accessed data,Storage,2021-11-30,
+amazon-sagemaker,Amazon SageMaker,"Build, train, and deploy machine learning models at scale",Machine Learning,2017-11-29,Free Trial
+amazon-sagemaker-canvas,Amazon SageMaker Canvas,Generate accurate machine learning predictions - no code required,Machine Learning,2021-11-30,
+amazon-sagemaker-ground-truth,Amazon SageMaker Ground Truth,Build accurate ML training datasets,Machine Learning,2018-11-27,Free Trial
+amazon-sagemaker-ground-truth-plus,Amazon SageMaker Ground Truth Plus,Create high-quality datasets for training machine learning models,Machine Learning,2021-12-01,
+amazon-sagemaker-studio-lab,Amazon SageMaker Studio Lab,"Learn and experiment with ML using free, no-configuration Jupyter Notebooks in the cloud",Machine Learning,2021-12-01,
+amazon-sagemaker-training-compiler,Amazon SageMaker Training Compiler,Train ML models quickly and cost-effectively with Amazon SageMaker,Machine Learning,2021-12-01,
+amazon-simple-email-service-ses,Amazon Simple Email Service (SES),High-scale inbound and outbound emai,Front-End Web & Mobile,2011-01-25,
+amazon-simple-notification-service-sns,Amazon Simple Notification Service (SNS),"Pub/sub, SMS, email, and mobile push notifications",Application Integration,2010-04-07,
+amazon-simple-queue-service-sqs,Amazon Simple Queue Service (SQS),Managed message queues,Application Integration,2006-07-13,
+amazon-s3,Amazon Simple Storage Service (S3),Object storage built to retrieve any amount of data from anywhere,Storage,2006-03-13,Free Trial
+amazon-sumerian,Amazon Sumerian,Build and run AR and VR applications,AR & VR,2018-05-15,
+amazon-textract,Amazon Textract,Extract text and data from documents,Machine Learning,2019-05-29,Free Trial
+amazon-timestream,Amazon Timestream,Fully managed time series database,Databases,2020-09-30,
+amazon-transcribe,Amazon Transcribe,Automatic speech recognition,Machine Learning,2018-04-04,
+amazon-translate,Amazon Translate,Natural and fluent language translation,Machine Learning,2018-04-04,
+amazon-vpc,Amazon VPC,Isolated cloud resources,Networking & Content Delivery,2011-08-03,
+amazon-workdocs,Amazon WorkDocs,Secure enterprise document storage and sharin,Business Applications,2015-01-28,
+amazon-workmail,Amazon WorkMail,Secure email and calendarin,Business Applications,2016-01-04,
+amazon-workspaces,Amazon WorkSpaces,Virtual desktops in the cloud,End User Computing,2014-03-26,
+apache-mxnet-on-aws,Apache MXNet on AWS,"Scalable, open-source deep learning framework",Machine Learning,2017-06-06,
+cloudendure-migration,AWS Application Migration Service (MGN),Automate application migration and modernizatio,Migration,2019-06-11,
+aws-amplify,AWS Amplify,"Build, deploy, host, and manage scalable web and mobile app",Front-End Web & Mobile,2017-11-21,
+aws-amplify-studio,AWS Amplify Studio (Preview),Extend AWS Amplify with a visual development environment for creating apps with minimal coding,Front-End Web & Mobile,2021-12-02,
+aws-app-mesh,AWS App Mesh,Monitor and control microservices,Networking & Content Delivery,2019-03-27,
+aws-app-runner,AWS App Runner,Production web applications at scale made easy for developers,Compute,2021-05-18,
+aws-app2container,AWS App2Container,Containerize and migrate existing applications,Containers,2020-07-01,
+aws-application-discovery-service,AWS Application Discovery Service,Discover on-premises applications to streamline migration,Migration,2016-04-19,Free Trial
+aws-appsync,AWS AppSync,"Accelerate app development with fully-managed, scalable GraphQL APIs",Front-End Web & Mobile,2017-11-28,Free Trial
+aws-artifact,AWS Artifact,On-demand access to AWS’ compliance reports,"Security, Identity, & Compliance",2016-11-30,
+aws-audit-manager,AWS Audit Manager,Continuously audit your AWS usage to simplify how you assess risk and compliance,"Security, Identity, & Compliance",2020-12-08,
+aws-auto-scaling,AWS Auto Scaling,Scale multiple resources to meet demand,Compute,2018-01-16,
+aws-backup,AWS Backup,Centralized backup across AWS services,Storage,2019-01-15,
+aws-backup-support-for-amazon-s3,AWS Backup support for Amazon S3 (Preview),Centrally manage backup and restore of app data stored in S,Storage,2021-11-30,
+aws-backup-support-for-vmware-workloads,AWS Backup support for VMware workloads,Centrally protect hybrid VMware environments,Storage,2021-11-30,
+aws-batch,AWS Batch,Run batch jobs at any scale,Compute,2017-01-05,
+aws-budgets,AWS Budgets,Set custom cost and usage budgets,Cloud Financial Management,2015-06-29,
+aws-certificate-manager,AWS Certificate Manager,"Manager Provision, manage, and deploy SSL/TLS certificates","Security, Identity, & Compliance",2016-01-21,
+aws-chatbot,AWS Chatbot,ChatOps for AWS,Management & Governance,2020-04-22,
+aws-cloud-control-api,AWS Cloud Control API,Manage AWS and third-party cloud infrastructure with consistent APIs,Developer Tools,2021-09-30,
+aws-cloud-development-kit-cdk,AWS Cloud Development Kit (CDK),Model cloud infrastructure using code,Developer Tools,2019-07-11,
+aws-cloud-map,AWS Cloud Map,Service discovery for cloud resources,Networking & Content Delivery,2018-11-28,
+aws-cloud-wan,AWS Cloud WAN (Preview),"Easily build, manage, and monitor global wide area networks",Networking & Content Delivery,2021-12-02,
+aws-cloud9,AWS Cloud9,"Write, run, and debug code on a cloud IDE",Developer Tools,2017-11-30,
+aws-cloudformation,AWS CloudFormation,Create and manage resources with templates,Management & Governance,2011-02-25,
+aws-cloudhsm,AWS CloudHSM,Hardware-based key storage for regulatory compliance,"Security, Identity, & Compliance",2013-03-26,
+aws-cloudshell,AWS CloudShell,Command line access to AWS resources and tools directly from a browser,Developer Tools,2020-12-15,
+aws-cloudtrail,AWS CloudTrail,Track user activity and API usage,Management & Governance,2013-11-13,
+aws-code-artifact,AWS CodeArtifact,"Secure, scalable, and cost-effective artifact management for software development",Developer Tools,2020-06-10,
+aws-codebuild,AWS CodeBuild,Build and test code,Developer Tools,2016-12-01,
+aws-codecommit,AWS CodeCommit,Store code in private Git repositories,Developer Tools,2015-07-15,
+aws-codedeploy,AWS CodeDeploy,Automate code deployments,Developer Tools,2014-11-12,
+aws-codepipeline,AWS CodePipeline,Release software using continuous delivery,Developer Tools,2015-07-15,
+aws-codestar,AWS CodeStar,Develop and deploy AWS applications,Developer Tools,2017-04-19,
+aws-command-line-interface,AWS Command Line Interface (CLI),Line Interface Unified tool to manage AWS services,Developer Tools,2013-09-03,
+aws-compute-optimizer,AWS Compute Optimizer,Identify optimal AWS Compute resources,Compute,2019-12-03,
+aws-config,AWS Config,Track resources inventory and changes,Management & Governance,2015-04-06,
+aws-control-tower,AWS Control Tower,"Set up and govern a secure, compliant multi-account environment",Management & Governance,2019-06-24,
+aws-control-tower-data-residency-guardrails,AWS Control Tower Data Residency Guardrails,Keep your customer data in specific AWS Regions,Management & Governance,2021-11-30,
+aws-copilot,AWS Copilot,AWS Copilot is the easiest way to launch and manage your containerized application on AWS,Containers,2020-11-23,
+aws-cost-and-usage-report,AWS Cost and Usage Report,Access comprehensive cost and usage information,Cloud Financial Management,2015-12-16,
+aws-cost-explorer,AWS Cost Explorer,Analyze your AWS cost and usage,Cloud Financial Management,2014-04-08,
+aws-data-exchange,AWS Data Exchange,"Find, subscribe to, and use third-party data in the cloud",Analytics,2019-11-13,
+aws-data-pipeline,AWS Data Pipeline,"Orchestration service for periodic, data-driven workflows",Analytics,2012-12-20,
+aws-database-migration-service,AWS Database Migration Service (DMS),Migrate databases with minimal downtime,Migration,2016-03-15,
+aws-datasync,AWS DataSync,"Simple, fast, online data transfer",Migration,2018-11-25,
+aws-deep-learning-amis,AWS Deep Learning AMIs,Deep learning on Amazon EC2,Machine Learning,2017-02-10,
+aws-deep-learning-containers,AWS Deep Learning Containers,Docker images for deep learning,Machine Learning,2019-03-27,
+aws-deepcomposer,AWS DeepComposer,ML enabled musical keyboard,Machine Learning,2020-04-02,
+aws-deeplens,AWS DeepLens,Deep learning enabled video camera,Machine Learning,2017-11-29,
+aws-deepracer,AWS DeepRacer,"Autonomous 1/18th scale race car, driven by ML",Machine Learning,2018-11-28,Free Trial
+aws-device-farm,AWS Device Farm,"Test Android, iOS, and web apps on real devices in the AWS cloud",Front-End Web & Mobile,2015-07-09,Free Trial
+aws-direct-connect,AWS Direct Connect,Dedicated network connection to AWS,Networking & Content Delivery,2011-08-30,
+aws-directory-service,AWS Directory Service,Host and manage active directory,"Security, Identity, & Compliance",2014-10-21,
+aws-distro-open-telemetry,AWS Distro for OpenTelemetry,"Secure, production-ready open source distribution with predictable performance",Management & Governance,2020-10-21,
+aws-elastic-beanstalk,AWS Elastic Beanstalk,Run and manage web apps,Compute,2020-04-09,
+aws-elemental-appliances-software,AWS Elemental Appliances & Software,On-premises media solutions,Media Services,2019-08-07,
+aws-elemental-mediaconnect-media-services,AWS Elemental MediaConnect,Reliable and secure live video transport,Media Services,2018-11-27,
+aws-elemental-mediaconvert,AWS Elemental MediaConvert,Convert file-based video content,Media Services,2017-11-26,
+aws-elemental-medialive,AWS Elemental MediaLive,Convert live video content,Media Services,2017-11-26,
+aws-elemental-mediapackage,AWS Elemental MediaPackage,Video origination and packaging,Media Services,2017-11-26,
+aws-elemental-mediastore,AWS Elemental MediaStore,Media storage and simple http origin,Media Services,2017-11-26,
+aws-elemental-mediatailor,AWS Elemental MediaTailor,Video personalization and monetization,Media Services,2017-11-26,
+aws-fargate,AWS Fargate,Serverless compute for containers,Containers,2017-11-29,
+aws-fault-injection-simulator,AWS Fault Injection Simulator,Improve resiliency and performance with controlled experiments,Developer Tools,2021-03-16,
+aws-firewall-manager,AWS Firewall Manager,Central management of firewall rules,"Security, Identity, & Compliance",2018-04-04,
+aws-global-accelerator,AWS Global Accelerator,Improve global application availability and performance,Networking & Content Delivery,2018-11-26,
+aws-glue,AWS Glue,"Simple, scalable, and serverless data integration",Analytics,2016-12-01,Free Trial
+aws-ground-station,AWS Ground Station,Fully managed ground station as a service,Satellite,2019-05-22,
+aws-identity-and-access-management-iam,AWS Identity and Access Management,Securely manage access to services and resources,"Security, Identity, & Compliance",2011-05-03,
+aws-inferentia,AWS Inferentia,Machine learning inference chip,Machine Learning,2018-11-28,
+aws-iot-1-click,AWS IoT 1-Click,One click creation of an AWS Lambda trigger,Internet of Things,2018-05-16,
+aws-iot-analytics,AWS IoT Analytics,Analytics for IoT devices,Internet of Things,2017-11-29,
+aws-iot-button,AWS IoT Button,Cloud programmable dash button,Internet of Things,2015-10-08,
+aws-iot-core,AWS IoT Core,Connect devices to the cloud,Internet of Things,2015-12-18,
+aws-iot-device-defender,AWS IoT Device Defender,Security management for IoT devices,Internet of Things,2017-11-29,
+aws-iot-device-management,AWS IoT Device Management,"Onboard, organize, and remotely manage IoT devices",Internet of Things,2017-11-29,12 Months Free
+aws-iot-edukit,AWS IoT EduKit,Learn how to build simple IoT applications with reference hardware and step-by-step tutorials,Internet of Things,2020-12-15,
+aws-iot-events,AWS IoT Events,IoT event detection and response,Internet of Things,2019-05-30,
+aws-iot-expresslink,AWS IoT ExpressLink (Preview),Quickly and easily develop secure IoT devices,Internet of Things,2021-11-30,
+aws-iot-fleetwise,AWS IoT FleetWise (Preview),"Easily collect, transform, and transfer vehicle data to the cloud in near-real time",Internet of Things,2021-11-30,
+aws-iot-greengrass,AWS IoT Greengrass,"Local compute, messaging, and sync for devices",Internet of Things,2017-06-07,12 Months Free
+aws-iot-roborunner,AWS IoT RoboRunner (Preview),Build applications that help fleets of robots work together seamlessly,Internet of Things,2021-11-29,
+aws-iot-sitewise,AWS IoT SiteWise,IoT data collector and interpreter,Internet of Things,2020-07-09,
+aws-iot-twinmaker,AWS IoT TwinMaker (Preview),Optimize operations by easily creating digital twins of real-world systems,Internet of Things,2021-11-30,
+aws-key-management-service,AWS Key Management Service (KMS),Managed creation and control of encryption keys,"Security, Identity, & Compliance",2014-11-12,Always Free
+aws-lake-formation,AWS Lake Formation,Build a secure data lake in days,Analytics,2019-08-09,
+aws-lambda,AWS Lambda,Run code without thinking about servers,Compute,2015-04-15,Free Trial
+aws-launch-wizard,AWS Launch Wizard,"Easily size, configure, and deploy third party applications on AWS",Management & Governance,2019-11-13,
+aws-license-manager,AWS License Manager,"Track, manage, and control licenses",Management & Governance,2018-11-28,
+aws-mainframe-modernization,AWS Mainframe Modernization,"Migrate, modernize, operate, and run mainframe workload",Migration,2021-11-30,
+aws-managed-services,AWS Managed Services,Infrastructure operations management for AWS,Management & Governance,2016-12-12,
+aws-management-console,AWS Management Console,Web-based user interface,Management & Governance,2009-01-08,
+aws-console-mobile-application,AWS Management Console Mobile Application,Access resources on the go,Management & Governance,2013-01-04,
+aws-marketplace-for-containers-anywhere,AWS Marketplace for Containers Anywhere,"Find, subscribe to, and deploy third-party applications that run in any Kubernetes environment",Containers,2021-11-29,
+aws-migration-hub,AWS Migration Hub,Track migrations from a single place,Migration,2017-08-14,
+aws-network-firewall,AWS Network Firewall,Deploy network security across your Amazon VPCs with just a few clicks,"Security, Identity, & Compliance",2020-11-19,
+aws-opsworks,AWS OpsWorks,Automate operations with Chef and Puppet,Management & Governance,2013-02-18,
+aws-organizations,AWS Organizations,Central governance and management across AWS accounts,Management & Governance,2017-02-27,
+aws-outposts,AWS Outposts,Run AWS infrastructure on-premises,Compute,2019-12-03,
+aws-outposts-1u-and-2u,AWS Outposts 1U and 2U,Run AWS Outposts in smaller locations,Compute,2021-11-30,
+aws-panorama,AWS Panorama,Improve your operations with computer vision at the edge,Machine Learning,2020-12-01,
+aws-partner-device-catalog,AWS Partner Device Catalog,Curated catalog of AWS-compatible IoT hardware,Internet of Things,2018-11-27,
+aws-personal-health-dashboard,AWS Personal Health Dashboard,Personalized view of AWS service health,Management & Governance,2016-12-01,
+aws-private-5g,AWS Private 5G,"Easily deploy, manage, and scale a private cellular network",Networking & Content Delivery,2021-11-30,
+aws-privatelink,AWS PrivateLink,Securely access services hosted on AWS,Networking & Content Delivery,2017-11-08,
+aws-proton,AWS Proton,Automate management for container and serverless deployments,Management & Governance,2021-06-09,
+aws-resilience-hub,AWS Resilience Hub,Prepare and protect your applications from disruptions,Management & Governance,2021-11-10,
+aws-resource-access-manager,AWS Resource Access Manager,"Simple, secure service to share AWS resources","Security, Identity, & Compliance",2018-12-06,
+aws-robomaker,AWS RoboMaker,"Develop, test, and deploy robotics applications",Robotics,2018-11-26,Free Trial
+aws-secrets-manager,AWS Secrets Manager,"Rotate, manage, and retrieve secrets","Security, Identity, & Compliance",2018-04-04,Free Trial
+aws-security-hub,AWS Security Hub,Unified security and compliance center,"Security, Identity, & Compliance",2019-06-24,Free Trial
+aws-server-migration-service,AWS Server Migration Service (SMS),Migrate on-premises servers to AWS,Migration,2016-10-24,
+aws-serverless-application-repository,AWS Serverless Application Repository,"Discover, deploy, and publish serverless applications",Compute,2018-02-21,
+aws-service-catalog,AWS Service Catalog,Create and use standardized products,Management & Governance,2015-07-09,
+aws-service-management-connector,AWS Service Management Connector,"Provision, manage and operate AWS resources within Service Management Tool",Management & Governance,2022-09-14,
+aws-shield,AWS Shield,DDoS protection,"Security, Identity, & Compliance",2016-12-01,
+aws-single-sign-on,AWS Single Sign-On (SSO),Cloud single sign-on (SSO) service,"Security, Identity, & Compliance",2017-12-07,
+aws-snow-family-storage,AWS Snow Family,Physical edge computing and storage devices for rugged or disconnected environments,Storage,2015-10-07,
+aws-snow-family-migration,AWS Snow Family,Physical devices to migrate data into and out of AWS,Migration,2015-10-07,
+aws-snow-family-compute,AWS Snow Family,"Physical devices to aggregate and process data in edge locations, then transer to AWS",Compute,2015-10-07,
+aws-step-functions,AWS Step Functions,Coordination for distributed applications,Application Integration,2016-12-01,
+aws-storage-gateway,AWS Storage Gateway,Hybrid storage integration,Storage,2012-01-24,Always Free
+aws-systems-manager,AWS Systems Manager,Gain operational insights and take action,Management & Governance,2017-11-29,
+aws-tools-and-sdks,AWS Tools and SDKs,Tools and SDKs for AWS,Developer Tools,2009-11-11,
+aws-transfer-family,AWS Transfer Family,"Fully managed SFTP, FTPS, and FTP service",Migration,2018-11-25,
+aws-transit-gateway,AWS Transit Gateway,Easily scale VPC and account connections,Networking & Content Delivery,2018-11-26,
+aws-trusted-advisor,AWS Trusted Advisor,Optimize performance and security,Management & Governance,2012-01-30,
+aws-vpn,AWS VPN,Securely access your network resources,Networking & Content Delivery,2018-12-18,
+aws-waf,AWS WAF,Filter malicious web traffic,"Security, Identity, & Compliance",2015-10-06,
+aws-wavelength,AWS Wavelength,Deliver ultra-low latency applications for 5G devices,Compute,2019-12-03,
+aws-well-architected-tool,AWS Well-Architected Tool,Review and improve your workloads,Architecture Strategy,2018-11-29,
+aws-x-ray,AWS X-Ray,Analyze and debug your applications,Developer Tools,2017-04-19,
+call-summarization-in-contact-lens-for-amazon-connect,Call summarization in Contact Lens for Amazon Connect,Generate customer call summaries automatically using machine learning,Business Applications,2021-11-30,
+cloudeendure-disaster-recovery,AWS Elastic Disaster Recovery (DRS),"Scalable, cost-effective application recovery to AW",Storage,2019-10-31,
+elastic-load-balancing-elb,Elastic Load Balancing (ELB),Distribute incoming traffic across multiple targets,Networking & Content Delivery,2009-05-17,12 Months Free
+migration-evaluator-formerly-tso-logic,Migration Evaluator (formerly TSO Logic),Create a business case for cloud migration,Migration,2020-07-20,
+open-3d-engine-o3de,Open 3D Engine (O3DE),Build games and 3D simulations with O3DE,Game Tech,2021-12-02,
+pytorch-on-aws,PyTorch on AWS,Flexible open-source machine learning framework,Machine Learning,2018-06-20,
+red-hat-openshift-service-aws,Red Hat OpenShift Service on AWS,Managed OpenShift in the cloud,Containers,2021-03-24,
+reserved-instance-reporting,Reserved Instance (RI) Reporting,Dive deeper into your reserved instances (RIs),Cloud Financial Management,2016-12-21,
+savings-plans,Savings Plans,Save up to 72% on compute usage with flexible pricing,Cloud Financial Management,2019-11-06,
+tensorflow-on-aws,TensorFlow on AWS,Open-source machine intelligence library,Machine Learning,2017-07-14,
+vmware-cloud-on-aws,VMware Cloud on AWS,Build a hybrid cloud without custom hardware,Compute,2017-08-28,
